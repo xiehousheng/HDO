@@ -30,4 +30,5 @@ Aligned image pairs
 - [Google Drive](https://drive.google.com/drive/folders/1Pzoai_ZzaHOF12AOGqmEZBg6bWq8t-cA?usp=share_link)
 - [Baidu Yun](https://pan.baidu.com/s/1zVRwyra9cO79YdOQJyREsA?pwd=ocat)
 
-Note that the dataset is for academic and non-commercial use only. If you have any questions or issues accessing the dataset, please contact us at xiehoushengsc@163.com.
+Note that the dataset is for academic and non-commercial use only. If this dataset was helpful to you, please feel free to cite its source.
+Any questions or issues accessing the dataset, please contact us at xiehoushengsc@163.com.
