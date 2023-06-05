@@ -32,3 +32,7 @@ Aligned image pairs
 
 Note that the dataset is for academic and non-commercial use only. If this dataset was helpful to you, please feel free to cite its source.
 Any questions or issues accessing the dataset, please contact us at xiehoushengsc@163.com.
+
+-------------------
+# RCVS: Round-the-Clock Video Stream registration and fusion scheme
+
