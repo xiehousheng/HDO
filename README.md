@@ -20,6 +20,9 @@ The features of the paired video sequence include:
 - Image resolution: 640 x 480 (infrared) ,640 x 480 (visible)
 - Dataset size: approximately 1.0 GB
 
+## Dataset Preview
+![preview](HDO.png)
+
 ## Download
 
 Raw video sequences 
